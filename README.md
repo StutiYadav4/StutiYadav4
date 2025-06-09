@@ -1,4 +1,4 @@
-#  Hi, I’m Stuti Yadav! 
+#  Hey, I’m Stuti Yadav! 
 
 🎓 **Pre-Final Year B.Tech Student in Chemical Engineering @ IIT Jodhpur**  
 💡 Actively exploring the fusion of **Chemical Engineering**, **Data Science**, and **Machine Learning**  
